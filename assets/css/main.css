@@ -174,7 +174,7 @@ input, select, textarea {
 	hr {
 		border-top: solid 1px #e0e0e0;
 		border: 0;
-		margin-bottom: 1.5em;
+		margin-bottom: 1.5em;#
 	}
 
 	blockquote {
@@ -468,6 +468,7 @@ input, select, textarea {
 		.row.gtr-200 {
 			margin-top: -100px;
 			margin-left: -100px;
+			padding-left: 250px;
 		}
 
 			.row.gtr-200 > * {
@@ -2147,7 +2148,7 @@ input, select, textarea {
 		.icon.major {
 			text-align: center;
 			cursor: default;
-			background-color: #37c0fb;
+			background-color: #6e6e6e;
 			background-image: -moz-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.15)), url("images/bg01.png");
 			background-image: -webkit-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.15)), url("images/bg01.png");
 			background-image: -ms-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.15)), url("images/bg01.png");
@@ -2415,7 +2416,7 @@ input, select, textarea {
 		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.15)), url("images/bg01.png");
 		background-image: -ms-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.15)), url("images/bg01.png");
 		background-image: linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.15)), url("images/bg01.png");
-		background-color: #37c0fb;
+		background-color: #767676;
 		border-radius: 5px;
 		border: 0;
 		color: #fff;
@@ -2565,7 +2566,7 @@ input, select, textarea {
 			display: block;
 			width: 100%;
 			height: 0.75em;
-			background-color: #37c0fb;
+			background-color: #777777;
 			background-image: url("images/bg01.png");
 		}
 
@@ -2612,7 +2613,7 @@ input, select, textarea {
 						bottom: -0.5em;
 						left: 50%;
 						margin-left: -0.375em;
-						background-color: #37c0fb;
+						background-color: #777777;
 						background-image: url("images/bg01.png");
 					}
 
@@ -2674,7 +2675,7 @@ input, select, textarea {
 /* Banner */
 
 	#banner {
-		background-image: url("../../images/banner.jpg");
+		background-image: url("../../images/frogbgg.png");
 		background-position: center center;
 		background-size: cover;
 		height: 28em;
@@ -2736,7 +2737,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style3 {
-			background-color: #37c0fb;
+			background-color: #777777;
 			background-image: -moz-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.15)), url("images/bg01.png");
 			background-image: -webkit-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.15)), url("images/bg01.png");
 			background-image: -ms-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.15)), url("images/bg01.png");
