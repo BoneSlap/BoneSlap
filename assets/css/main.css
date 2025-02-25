@@ -2255,6 +2255,17 @@ input, select, textarea {
 		padding-left: 0;
 	}
 
+	ul.actions2 {
+		display: -moz-flex;
+		display: -webkit-flex;
+		display: -ms-flex;
+		display: flex;
+		cursor: default;
+		list-style: none;
+		margin-left: -1em;
+		padding-left: 25px;
+	}
+
 		ul.actions li {
 			padding: 0 0 0 1em;
 			vertical-align: middle;
@@ -2530,6 +2541,12 @@ input, select, textarea {
 
 /* Header */
 
+.centerr {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+  }
 	#header {
 		text-align: center;
 		padding: 3em 0 0 0;
@@ -2753,6 +2770,25 @@ input, select, textarea {
 				.wrapper.style3 .button:hover {
 					color: #37c0fb !important;
 				}
+		.wrapper.style4 {
+			background: #fff;
+			margin: 100px;
+			border-radius: 20px;
+		}
+		.wrapper.style5 {
+			background: #e4e4e4;
+			margin: 50px;
+			border-radius: 25px;
+			padding-left: 250px;
+		}
+		.wrapper.style6 {
+			background: #e4e4e4;
+			margin: 30px;
+			border-radius: 25px;
+			padding-left: 0px;
+			padding-bottom: ;
+		}
+
 
 /* CTA */
 
